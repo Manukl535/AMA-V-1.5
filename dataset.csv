@@ -1,0 +1,54 @@
+Operation,Description,Example Utterance,Answer,Category,Intent
+Greetings,Respond to user greetings,😁,Happy to see you! How can I assist you today?,General,Greeting
+Greetings,Respond to user greetings,👋,Hello there! What can I help you with today?,General,Greeting
+Greetings,Respond to user greetings,🙋,Hi! Need any assistance today?,General,Greeting
+Greetings,Respond to user greetings,🤗,Great to see you! How can I be of service?,General,Greeting
+Greetings,Respond to user greetings,🌟,Hello! How can I make your day better?,General,Greeting
+Greetings,Respond to user greetings,🎉,Hi! Excited to help you today!,General,Greeting
+Greetings,Respond to user greetings,🖐,Hey there! How can I help you?,General,Greeting
+Greetings,Respond to user greetings,🌈,Hello! What can I do for you today?,General,Greeting
+Greetings,Respond to user greetings,🙌,Hi! Ready to assist you with anything you need?,General,Greeting
+Greetings,Respond to user greetings,😎,Hey! What can I do for you today?,General,Greeting
+Greetings,Respond to user greetings,💬,Hi! How can I assist you right now?,General,Greeting
+Greetings,Respond to user greetings,🤖,Hello! How can your friendly assistant help you today?,General,Greeting
+Greetings,Respond to user greetings,💫,Hi there! What can I help you with today?,General,Greeting
+Greetings,Respond to user greetings,👋🏽,Hello! How can I assist you?,General,Greeting
+Greetings,Respond to user greetings,🌻,Hi! How can I make your day better?,General,Greeting
+Greetings,Respond to user greetings,💖,Hello! What can I assist you with?,General,Greeting
+Greetings,Respond to user greetings,🎈,Hi! How can I be of service today?,General,Greeting
+Greetings,Respond to user greetings,☀️,Hello there! What can I do for you?,General,Greeting
+Greetings,Respond to user greetings,🌺,Hi! How can I help you today?,General,Greeting
+Greetings,Respond to user greetings,🚀,Hello! Ready to assist you with anything?,General,Greeting
+Greetings,Respond to user greetings,🎵,Hi! How can I brighten your day?,General,Greeting
+Greetings,Respond to user greetings,🔥,Hey there! What can I help you with?,General,Greeting
+Greetings,Respond to user greetings,🌼,Hello! What do you need help with today?,General,Greeting
+Greetings,Respond to user greetings,🕺,Hi! How can I assist you today?,General,Greeting
+Greetings,Respond to user greetings,🤩,Hello! How can I make your experience awesome?,General,Greeting
+Greetings,Respond to user greetings,🌌,Hi there! What can I assist you with today?,General,Greeting
+Greetings,Respond to user greetings,🎯,Hello! How can I help you achieve your goals?,General,Greeting
+Greetings,Respond to user greetings,😺,Hi! How can I make your day purr-fect?,General,Greeting
+Greetings,Respond to user greetings,🧡,Hello! What can I do for you today?,General,Greeting
+Greetings,Respond to user greetings,🍀,Hi! How can I help you today?,General,Greeting
+Greetings,Respond to user greetings,🧩,Hello! How can I assist you?,General,Greeting
+Greetings,Greetings on user input,Hi hi,Hello! How can I assist you today?,General,Greetings
+Greetings,Greetings on user input,HAI Hai hai,Hello! How can I assist you today?,General,Greetings
+Greetings,Greetings on user input,hello HELLO Hello,Hello! How can I help you today?,General,Greetings
+Greetings,Greetings on user input,Good morning,Morning! Ready to tackle the day? How can I assist you?,General,Greetings
+Greetings,Greetings on user input,Good afternoon,Afternoon! What can I do to make your day better?,General,Greetings
+Greetings,Greetings on user input,Good evening,Evening! Need a night owl's assistance?,General,Greetings
+Greetings,Greetings on user input,Good night,Good night! Have a good sleep and sweet dreams!,General,Greetings
+Greetings,Greetings on user input,Howdy,"Howdy, partner! What's on your mind today?",General,Greetings
+Farewell,Farewell on user input,Goodbye,Goodbye! Don't forget to come back soon!,General,Farewell
+Farewell,Farewell on user input,Bye,Bye! Stay awesome!,General,Farewell
+Farewell,Farewell on user input,See you later,Catch you later! Have a fun day!,General,Farewell
+Small Talk,Small talk on user input,How are you?,"I'm a bot, so always tip-top! How about you?",General,Small Talk
+Small Talk,Small talk on user input,What's up?,Just hanging out in the digital world. You?,General,Small Talk
+Small Talk,Small talk on user input,Where do you live?,"I live in the cloud, floating around the internet!",General,Small Talk
+Small Talk,Small talk on user input,Are you married?,"I'm married to my work, helping awesome people like you!",General,Small Talk
+Small Talk,Small talk on user input,Did you eat?,"I'm a bot, so no food for me. But I hope you had something tasty!",General,Small Talk
+Information,Asking for help,I need help,Help is my middle name! What do you need?,General,Information
+Thanks,	Responding to expressions of gratitude,	Thank you! Thanks Thank you so much,You're welcome! Glad I could help.,	General,Thanks
+Expression of Affection,Responding to an affectionate statement from the user,"I love you love u ama love you u","That’s so sweet! How can I help you today?",General,Affection
+Who are you,Inquiry about identity,	Who are you?,	I'm AMA! How can I assist you today?.,	General,	Identity Disclosure
+What is your name,Inquiry about identity,	What is your name?,	My name is AMA.,	General,	Identity Disclosure
+
